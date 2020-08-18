@@ -1,0 +1,34 @@
+header.header
+  .wrap
+    a.header__title.cc-active.active-link(href='{{ site.baseurl }}/')
+      | Letterform Design
+    .menu
+      .menu__toggle.js-menu-toggle
+        .menu__toggle__icon
+          span
+      .menu__wrap
+        ul.menu__list
+          li.menu__list__item
+            | {% if page.name == 'index.md' %}
+            a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/') Gallery
+            | {% else %}
+            a.menu__list__item__link(href='{{ site.baseurl }}/') Gallery
+            | {% endif %}
+          li.menu__list__item
+            | {% if page.name == 'lettering.md' %}
+            a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/lettering') #Lettering
+            | {% else %}
+            a.menu__list__item__link.class-link(href='{{ site.baseurl }}/lettering') #Lettering
+            | {% endif %}
+          li.menu__list__item
+            | {% if page.name == 'type-design.md' %}
+            a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/type-design') #TypeDesign
+            | {% else %}
+            a.menu__list__item__link.class-link(href='{{ site.baseurl }}/type-design') #TypeDesign
+            | {% endif %}
+          li.menu__list__item
+            | {% if page.name == 'about.md' %}
+            a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/about') About
+            | {% else %}
+            a.menu__list__item__link(href='{{ site.baseurl }}/about') About
+            | {% endif %}

@@ -1,0 +1,17 @@
+<header class="header">
+  <div class="wrap"><a class="header__title cc-active active-link" href="{{ site.baseurl }}/">Letterform Design</a>
+    <div class="menu">
+      <div class="menu__toggle js-menu-toggle">
+        <div class="menu__toggle__icon"><span></span></div>
+      </div>
+      <div class="menu__wrap">
+        <ul class="menu__list">
+          <li class="menu__list__item">{% if page.name == 'index.md' %}<a class="menu__list__item__link cc-active active-link" href="{{ site.baseurl }}/">Gallery</a>{% else %}<a class="menu__list__item__link" href="{{ site.baseurl }}/">Gallery</a>{% endif %}</li>
+          <li class="menu__list__item">{% if page.name == 'lettering.md' %}<a class="menu__list__item__link cc-active active-link" href="{{ site.baseurl }}/lettering">#Lettering</a>{% else %}<a class="menu__list__item__link class-link" href="{{ site.baseurl }}/lettering">#Lettering</a>{% endif %}</li>
+          <li class="menu__list__item">{% if page.name == 'type-design.md' %}<a class="menu__list__item__link cc-active active-link" href="{{ site.baseurl }}/type-design">#TypeDesign</a>{% else %}<a class="menu__list__item__link class-link" href="{{ site.baseurl }}/type-design">#TypeDesign</a>{% endif %}</li>
+          <li class="menu__list__item">{% if page.name == 'about.md' %}<a class="menu__list__item__link cc-active active-link" href="{{ site.baseurl }}/about">About</a>{% else %}<a class="menu__list__item__link" href="{{ site.baseurl }}/about">About</a>{% endif %}</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</header>

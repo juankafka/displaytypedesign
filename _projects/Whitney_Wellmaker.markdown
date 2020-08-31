@@ -1,13 +1,13 @@
 ---
 layout: project
-title:  Whitney
+title:  Whitney Wellmaker
 teaser: /assets/img/Whitney_Wellmaker/00.png
 class: summer_2020
 ---
 ###### Type@Cooper Display Type, Summer 2020 ######
 ---
 ## Honey ##
-### by Whitney ###
+### by Whitney Wellmaker ###
 <br>
 Honey is inspired by the black and woman experience. It challenges stereotypes and celebrates our many differences and similarities. With corporate identity in mind, I created stylistic alternatives so that one can use this typeface to create unique materials that parallels their tone.
 <br><br>
@@ -31,7 +31,7 @@ Throughout the process of creating Honey, analog and digital methods were used. 
 ![image9](/assets/img/Whitney_Wellmaker/08.png)
 
 ---
-## Whitney ##
+## Whitney Wellmaker ##
 I am a Graphic Designer based in sunny Jacksonville, Florida. I adore typography and publication design, especially when I can experiment with materials.
 When I'm not drawing letters or sifting through color combinations, I am more than likely crafting, drinking tea, or planning my next trip to Disney World.
 <br>

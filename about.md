@@ -45,4 +45,8 @@ You can find his latest type & lettering experiments through the links and sampl
 ![image8](/assets/img/Juan_Villanueva/08.gif) <!--- Aguachile ---> 
 ![image7](/assets/img/Juan_Villanueva/07.gif) <!--- Scriptorium ---> 
 <br><br><br><br><br>
+<<<<<<< HEAD
 ![image9](/assets/img/Juan_Villanueva/09.png) <!--- Type ---> 
+=======
+![image9](/assets/img/Juan_Villanueva/09.png) <!--- Type ---> 
+>>>>>>> c54d5c9d21208a8c1be74a57a0e8c143470289d1

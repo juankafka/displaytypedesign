@@ -138,14 +138,14 @@ code,
 kbd,
 pre,
 samp {
- font-family:monospace
+ font-family: 'IBM Plex Mono', monospace;
 }
 small {
  font-size:.75em
 }
 img {
- border:0;
- font-style:italic
+ border:100;
+ font-style:italic;
 }
 input,
 optgroup,
@@ -497,27 +497,25 @@ section {
  height:100%;
  width:100%
 }
+
 body,
 html {
  height:100%
 }
 body {
- background:#fff;
- font-family:Eczar,serif;
- font-weight:300;
- font-style:normal;
+ background:#0000ff;
+ font-family: 'IBM Plex Mono', monospace;
+ font-weight:200;
+ font-style: italic;
  line-height:1;
- color:#a1a1a1
+ color:#ffffff
 }
 h1,
 h2,
 h3,
 h4,
 h5,
-h6 {
- font-family:Eczar,serif;
- color:#2A2F36
-}
+h6,
 h1:first-child,
 h2:first-child,
 h3:first-child,
@@ -528,90 +526,90 @@ h6:first-child {
 }
 .h1,
 h1 {
- font-size:25px;
- font-weight:500;
+ font-size:48px;
+ font-weight:300;
  line-height:1.2;
  letter-spacing:0em
 }
 @media only screen and (min-width:768px) {
  .h1,
  h1 {
-  font-size:35px
+  font-size:48px
  }
 }
 @media only screen and (min-width:1220px) {
  .h1,
  h1 {
-  font-size:45px
+  font-size:52px
  }
 }
 .h2,
 h2 {
- margin-top:30px;
- font-size:22px;
- font-weight:500;
+ margin-top:10px;
+ font-size:44px;
+ font-weight:300;
  line-height:1.2;
  letter-spacing:0em
 }
 @media only screen and (min-width:768px) {
  .h2,
  h2 {
-  font-size:30px
+  font-size:44px
  }
 }
 @media only screen and (min-width:1220px) {
  .h2,
  h2 {
-  margin-top:40px;
-  font-size:35px
+  margin-top:10px;
+  font-size:48px
  }
 }
 .h3,
 h3 {
- margin-top:30px;
- font-size:22px;
- font-weight:500;
- line-height:1.3;
+ margin-top:28px;
+ font-size:28px;
+ font-weight:300;
+ line-height:1.4;
  letter-spacing:0em
 }
 @media only screen and (min-width:768px) {
  .h3,
  h3 {
-  font-size:25px
+  font-size:28px
  }
 }
 @media only screen and (min-width:1220px) {
  .h3,
  h3 {
-  margin-top:40px;
-  font-size:30px
+  margin-top:5px;
+  font-size:32px
  }
 }
 .h4,
 h4 {
- margin-top:25px;
- font-size:17px;
- font-weight:500;
+ margin-top:28px;
+ font-size:28px;
+ font-weight:300;
  line-height:1.6;
  letter-spacing:0
 }
 @media only screen and (min-width:768px) {
  .h4,
  h4 {
-  font-size:22px
+  font-size:28px
  }
 }
 @media only screen and (min-width:1220px) {
  .h4,
  h4 {
-  font-size:22px
+  font-size:32px
  }
 }
 .h5,
 h5 {
- margin-top:15px;
- font-size:17px;
- font-weight:500;
+ margin-top:20px;
+ font-size:20px;
+ font-weight:300;
  line-height:1.6;
  letter-spacing:0
 }
@@ -624,27 +622,27 @@ h5 {
 @media only screen and (min-width:1220px) {
  .h5,
  h5 {
-  font-size:20px
+  font-size:24px
  }
 }
 .h6,
 h6 {
  margin-top:15px;
- font-size:17px;
- font-weight:500;
+ font-size:15px;
+ font-weight:bold;
  line-height:1.6;
  letter-spacing:0
 }
 @media only screen and (min-width:768px) {
  .h6,
  h6 {
-  font-size:20px
+  font-size:17px
  }
 }
 @media only screen and (min-width:1220px) {
  .h6,
  h6 {
-  font-size:20px
+  font-size:19px
  }
 }
 ol,
@@ -652,7 +650,7 @@ p,
 ul {
  margin-top:15px;
  font-size:15px;
- font-weight:300;
+ font-weight:100;
  line-height:1.6;
  letter-spacing:0
 }
@@ -673,7 +671,7 @@ ul {
 ol strong,
 p strong,
 ul strong {
- font-weight:500
+ font-weight:700
 }
 ol:first-child,
 p:first-child,
@@ -686,7 +684,7 @@ ul {
 }
 blockquote {
  margin-top:15px;
- border-left:2px solid #2A2F36;
+ border-left:2px solid #ffffff;
  padding:10px 0 10px 20px;
  font-size:25px;
  font-weight:300;
@@ -725,8 +723,8 @@ blockquote p {
 }
 a {
  text-decoration:none;
- color:#4ccda6;
- font-weight:400;
+ color:#ffe100;
+ font-weight:700;
  -webkit-transition:all .15s ease-in-out;
  -moz-transition:all .15s ease-in-out;
  -ms-transition:all .15s ease-in-out;
@@ -734,15 +732,15 @@ a {
  transition:all .15s ease-in-out
 }
 a:hover {
- color:#2cedb3;
+ color:#ffe100;
 }
 .button {
  display:inline-block;
  padding:9px 10px 10px;
  font-size:13px;
  line-height:1;
- border:2px solid #4ccda6;
- background:#4ccda6;
+ border:2px solid #ffe100;
+ background:#ffe100;
  color:#fff;
  font-weight:500;
  letter-spacing:0;
@@ -755,8 +753,8 @@ a:hover {
  }
 }
 .button:hover {
- background:#4eb6cd;
- border-color:#4eb6cd;
+ background:#ffe100;
+ border-color:#ffe100;
  color:#fff
 }
 .button svg {
@@ -787,13 +785,13 @@ a:hover {
 }
 .button--light {
  background:0 0;
- border-color:#2A2F36;
- color:#2A2F36
+ border-color:#ffffff;
+ color:#ffffff
 }
 .button--light:hover {
- background:#4ccda6;
- border-color:#4ccda6;
- color:#fff
+ background:#ffe100;
+ border-color:#ffe100;
+ color:#ffe100
 }
 .button--overlay {
  background:0 0;
@@ -803,20 +801,20 @@ a:hover {
 .button--overlay:hover {
  background:#fff;
  border-color:#fff;
- color:#4ccda6
+ color:#ffe100
 }
 hr {
  margin:40px 0;
  border:0;
  height:2px;
- background:#f4f5f6
+ background:#ffe100
 }
 ::selection {
- background:#4ccda6;
+ background:#000;s
  color:#fff
 }
 ::-moz-selection {
- background:#4ccda6;
+ background:#000;
  color:#fff
 }
 .page-loader {
@@ -892,21 +890,25 @@ body.loading .footer {
  width:100%
 }
 section {
- margin-top:30px
+ margin-top:30px;
+ margin-bottom: 100px
 }
 @media only screen and (min-width:768px) {
  section {
-  margin-top:40px
+  margin-top:40px;
+  margin-bottom: 100px
  }
 }
 @media only screen and (min-width:1024px) {
  section {
-  margin-top:40px
+  margin-top:40px;
+  margin-bottom: 100px
  }
 }
 @media only screen and (min-width:1220px) {
  section {
-  margin-top:50px
+  margin-top:50px;
+  margin-bottom: 100px
  }
 }
 .wrap {
@@ -1042,23 +1044,23 @@ section {
  height:auto
 }
 .header__title {
- font-size:22px;
- font-weight:500;
+ font-size:36px;
+ font-weight:700;
  letter-spacing:0em;
  line-height:1;
- color:#2A2F36
+ color:#ffffff
 }
 .header__title:hover {
- color:#4ccda6
+ color:#ffe100
 }
 @media only screen and (min-width:768px) {
  .header__title {
-  font-size:26px
+  font-size:30px
  }
 }
 @media only screen and (min-width:1220px) {
  .header__title {
-  font-size:30px
+  font-size:36px
  }
 }
 @media only screen and (min-width:768px) {
@@ -1086,7 +1088,7 @@ section {
  cursor:pointer;
  font-size:15px;
  line-height:20px;
- color:#2A2F36
+ color:#ffffff
 }
 @media only screen and (min-width:768px) {
  .menu__toggle {
@@ -1114,7 +1116,7 @@ section {
  -ms-transition:all .1s;
  -o-transition:all .1s;
  transition:all .1s;
- background:#2A2F36
+ background:#ffffff
 }
 .menu__toggle__icon span:before {
  top:-8px
@@ -1154,7 +1156,7 @@ section {
  right:0;
  bottom:0;
  left:0;
- background:rgba(78,205,196,.95);
+ background:rgba(13, 0, 255,.75); #blue
  overflow:auto;
  visibility:hidden;
  opacity:0;
@@ -1204,35 +1206,35 @@ section {
  }
 }
 .menu__list__item__link {
- font-size:30px;
+ font-size:24px;
  font-weight:500;
  color:#fff;
  padding:10px 0
 }
 .menu__list__item__link:hover {
- color:#2A2F36
+ color:#ffe100
 }
 @media only screen and (min-width:768px) {
  .menu__list__item__link {
   padding:0 0 3px;
-  font-size:14px;
-  color:#2A2F36
+  font-size:18px;
+  color:#ffffff
  }
  .menu__list__item__link:hover {
-  color:#4ccda6
+  color:#ffe100
  }
 }
 @media only screen and (min-width:1220px) {
  .menu__list__item__link {
-  font-size:15px
+  font-size:24px
  }
 }
 .menu__list__item__link.active-link {
- color:#2A2F36
+ color:#ffe100
 }
 @media only screen and (min-width:768px) {
  .menu__list__item__link.active-link {
-  color:#4ccda6
+  color:#ffe100
  }
 }
 .menu__button {
@@ -1477,7 +1479,7 @@ section {
 }
 .single p a {
  font-weight:500;
- border-bottom:2px solid #4ccda6
+ border-bottom:2px solid #ffe100
 }
 .single p .button {
  margin-top:10px
@@ -1546,10 +1548,10 @@ section {
  }
 }
 .single table {
- border:2px solid #2A2F36
+ border:2px solid #ffffff
 }
 .single table thead {
- background:#2A2F36;
+ background:#ffffff;
  color:#fff;
  text-align:left;
  font-weight:500
@@ -1723,7 +1725,7 @@ section {
  transform:translate(-50%,-52%)
 }
 .socials__item__link:hover {
- background:#4ccda6;
+ background:#ffe100;
  color:#fff
 }
 .gallery {
@@ -1784,7 +1786,7 @@ section {
  outline:0
 }
 .gallery--carousel .owl-dots .owl-dot.active {
- background:#4ccda6
+ background:#ffe100
 }
 .gallery--grid .gallery__wrap {
  margin-left:-10px;
@@ -2306,7 +2308,7 @@ section {
  background:#fff;
  font-size:15px;
  line-height:1.4;
- color:#2A2F36;
+ color:#ffffff;
  -webkit-transition:all .15s ease-in-out;
  -moz-transition:all .15s ease-in-out;
  -ms-transition:all .15s ease-in-out;
@@ -2329,7 +2331,7 @@ section {
 .contact-form__input:focus,
 .contact-form__textarea:focus {
  outline:0;
- border-color:#4ccda6
+ border-color:#ffe100
 }
 ::-webkit-input-placeholder {
  color:#d4dada

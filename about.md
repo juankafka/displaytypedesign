@@ -18,6 +18,9 @@ If you're studying type design or want to improve, I enourage you to check out t
 <a href="https://medium.com/typecritcrew">![image1](/assets/img/Juan_Villanueva/01.gif)</a>
 
 <br><br>
+And huge thanks to Lynne Yun and Kevin Yeh of [Space Type Continuum](http://spacetypecontinuum.com/) for sharing the base code I used to build this site. Check out their amazing work!
+
+<br><br>
 ## About the Instructor ##
 <br>
 Juan Villanueva is a typeface designer, letterer, and educator in New York City.

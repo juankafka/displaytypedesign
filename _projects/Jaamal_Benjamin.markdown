@@ -8,6 +8,7 @@ class: summer_2020
 ---
 ## Harlemecc ##
 ### by Jaamal Benjamin ###
+<br>
 Inspired by The Harlem Renaissance in New York City, Harlemecc is a contemporary display typeface which aims to interpret the commercial lettering of Black fine artist and painter, Aaron Douglas. Interpreted for usability, Harlemecc is a new typeface constructed for force and function by drawing influence from geometric Art Deco vernacular. Harlemecc is characterized by the idiosyncratic flavor of Aaron's illustrations but also weighted in the dynamic expression of Blackness during the Great Migration in America.
 <br><br>
 

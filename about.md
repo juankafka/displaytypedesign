@@ -3,7 +3,7 @@ layout: page
 title: A Class Exhibit
 permalink: /about
 ---
-<br><br><br><br><br>
+<br><br><br>
 Over a period of ten weeks, a group of talented and highly motivated students from all over the world gathered in a virtual classroom during a global pandemic and an ongoing fight for racial justice to study display type design.
 <br><br>
 ### What can display type teach us about the current moment? ###

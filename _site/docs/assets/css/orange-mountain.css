@@ -528,8 +528,9 @@ h6:first-child {
 h1 {
  font-size:48px;
  font-weight:300;
- line-height:1.6;
- letter-spacing:0em
+ line-height:1.2;
+ letter-spacing:0em;
+ margin-bottom:50px
 }
 @media only screen and (min-width:768px) {
  .h1,

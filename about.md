@@ -8,7 +8,7 @@ Over a period of ten weeks, a group of talented and highly motivated students fr
 <br><br>
 ### What can display type teach us about the current moment? ###
 <br>
-Display type is designed to make an unapologetic statement. It’s elegantly bold and speaks to us loud and clear without holding back. Simply put, display type wears its heart on its sleeve.
+Display type is designed to make an unapologetic statement. It can be elegant and bold, and speaks to us loud and clear without holding back. Simply put, display type wears its heart on its sleeve.
  
 In a world where marginalized voices are silenced, undermined, and ignored, speaking up against injustice and building up the confidence to simply be oneself is a courageous act.
  

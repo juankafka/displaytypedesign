@@ -23,13 +23,13 @@ The result is a beautiful group of typefaces each with their own personality, sp
 As the instructor of this class, I'm incredibly humbled and proud of the work you see here as it shows a lot of potential, growth, and a fresh take on the various forms that display type can have.
  
 I hope you enjoy this class exhibit and I encourage you to check out more of the students’ work, follow them on social media, and hire them for your next type-based project.
-<br><br><br>
-#### If you’re interested in learning type design ####
+<br><br><br><br>
+### If you’re interested in learning type design ###
 I invite you to take my upcoming [Principles of Typeface Design: Display Type](http://coopertype.org/event/principles_of_typeface_design_display_type_fall2020) class through Type@Cooper.
 
 And if you want to continue learning, check out the [Type Crit Crew](https://medium.com/typecritcrew), an initiative that I started to help you get in touch with experienced type designers.
-<br><br><br>
-#### About the Instructor ####
+<br><br><br><br>
+### About the Instructor ###
 Juan Villanueva is a typeface designer, letterer, and educator in New York City.
 <br><br>
 He grew up in Lima, Peru and Clifton, NJ. His heart is in both places and his work reflects both languages and cultures. Juan is a typeface designer at Monotype working on library designs including Helvetica Now and Walbaum as well as custom projects for global brands such as Google, Microsoft, Tencent, Entertainment One, and many others.

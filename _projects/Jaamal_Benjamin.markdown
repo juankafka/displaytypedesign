@@ -27,6 +27,8 @@ Inspired by The Harlem Renaissance in New York City, Harlemecc is a contemporary
 ![image8](/assets/img/Jaamal_Benjamin/07.png)
 <br><br>
 ![image9](/assets/img/Jaamal_Benjamin/08.png)
+<br><br>
+![image10](/assets/img/Jaamal_Benjamin/09.png)
 
 ---
 ## Jaamal Benjamin ##

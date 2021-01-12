@@ -11,7 +11,7 @@ class: fall_2020
 <br>
 ![image1](/assets/img/Ana_Michel/01.png)
 <br>
-Inspired by vernacular signage in Bolivia, SILPANCHO is a contemporary display typeface, which aims to be used for food menus and other local shops that keep the sense of a street nature, strong voice, and some mechanical look. My design process implied a lot of observation, calligraphy proofs and a valuable constant review to the basics of type design. It was an amazing learning journey.
+Inspired by vernacular signage in Bolivia, SILPANCHO is a contemporary display typeface, which aims to be used for food menus and other local shops that keep the sense of a street nature, strong voice, and some mechanical look. My design process involved a lot of observation, calligraphy proofs and a valuable constant review to the basics of type design. It was an amazing learning journey.
 <br><br>
 
 ![image2](/assets/img/Ana_Michel/02.png)

@@ -15,7 +15,7 @@ class: fall_2020
 <br><br>
 ![image1](/assets/img/Tamara_Segura/02.png)
 <br>
-The conceptualization of this typeface was a tough one, I started by synthesizing some of the shapes I found during the research, set down the most important parameters in order to achieve the goal I wanted, then I started the sketching process, I tried a ton if different styles and skeletons, looking for one that really showed the concept I wanted to communicate. My goal is to develop a variable width axis, so the concept of maximum use of the space where it will be applied is even more evident. 
+The conceptualization of this typeface was a tough one, I started by synthesizing some of the shapes I found during the research, set down the most important parameters in order to achieve the goal I wanted, then I started the sketching process, I tried a ton of different styles and skeletons, looking for one that really showed the concept I wanted to communicate. My goal is to develop a variable width axis, so the concept of maximum use of the space where it will be applied is even more evident. 
 <br><br>
 
 ![image3](/assets/img/Tamara_Segura/03.png)

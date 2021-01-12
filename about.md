@@ -25,7 +25,7 @@ As the instructor of this class, I'm incredibly humbled and proud of the work yo
 I hope you enjoy this class exhibit and I encourage you to check out more of the students’ work, follow them on social media, and hire them for your next type-based project.
 <br><br><br><br>
 ### If you’re interested in learning type design ###
-I invite you to take my upcoming [Principles of Typeface Design: Display Type](http://coopertype.org/event/principles_of_typeface_design_display_type_fall2020) class through Type@Cooper.
+I invite you to take my upcoming [Principles of Typeface Design: Display Type](http://coopertype.org/event/principles_of_typeface_design_display_type_spring2021) class through Type@Cooper.
 
 And if you want to continue learning, check out the [Type Crit Crew](https://medium.com/typecritcrew), an initiative that I started to help you get in touch with experienced type designers.
 <br><br><br><br>

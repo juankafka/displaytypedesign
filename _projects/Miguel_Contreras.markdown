@@ -9,7 +9,7 @@ class: spring_2021
 ## Cemita ##
 ### by Miguel Angel Contreras Cruz ###
 <br>
-Cemita poblana: it’s like a powerful and magical sandwich from Puebla, my city. Is filled with breaded chicken, pork or beef(Milanesa), as well as avocado, quesillo (cheese) and chipotle (smoked and dried jalapeño chili pepper). It is full of flavors!
+Cemita poblana: it’s like a powerful and magical sandwich from Puebla, my city. Is filled with breaded chicken, pork or beef (Milanesa), as well as avocado, quesillo (cheese) and chipotle (smoked and dried jalapeño chili pepper). It is full of flavors!
 <br><br>
 Cemita is a mexican display typeface inspired by traditional food from Puebla.
 <br><br>

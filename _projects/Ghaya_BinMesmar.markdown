@@ -28,5 +28,5 @@ A Typeface that is meant for short headlines, it has a bold presence with subtle
 
 ---
 ## Ghaya Bin Mesmar ##
-Ghaya is Dubai based Graphic designer who is currently exploring the fields of typography motion design.
+Ghaya is Dubai based Graphic designer who is currently exploring the fields of typography and motion design.
 <br>

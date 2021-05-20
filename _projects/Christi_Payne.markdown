@@ -11,9 +11,7 @@ class: spring_2021
 <br>
 Bambo is a calligraphic font whose basic rule is that no strokes touch corners; instead they either cross or “kiss.” Having many alternates, ligatures, & components, it allows the designer to play, letter by letter & line by line, to mimic the hand that holds the brush.
 <br><br>
-Much of my background is in medieval lettering, which I have been studying for years. I am especially drawn to the crazy juxtaposition of letters when there were not so many rules, just an inherent need to fill the page of vellum with words and decoration and to make it beautiful. 'Horror vacuii' (fear of empty spaces) – a very real aspect of medieval illumination – remains one of my motivating principles.
-<br><br>
-Bambo began as an experimental design of versals drawn in pencil, which I scan into Glyphs and begin tracing. It took a lot of practice to finally find a consistency of stem widths (not to mention getting used to beziérs). When completed, the goal is to have several sets of alternates, ligatures, components (to create more variations), and even words.
+My background is in medieval lettering, and I am especially drawn to the crazy juxtaposition of letters when there were not so many rules, just an inherent need to fill the page. Bambo began as an experimental design of versals drawn in pencil. When completed, the goal is to have several sets of alternates, ligatures, components (to create more variations), and even words.
 <br><br>
 
 ![image1](/assets/img/Christi_Payne/01.png)

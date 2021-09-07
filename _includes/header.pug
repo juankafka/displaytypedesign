@@ -15,6 +15,12 @@ header.header
             a.menu__list__item__link(href='{{ site.baseurl }}/') Gallery
             | {% endif %}
           li.menu__list__item
+            | {% if page.name == 'summer_2021.md' %}
+            a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/summer_2021') Summer 2021
+            | {% else %}
+            a.menu__list__item__link.class-link(href='{{ site.baseurl }}/summer_2021') Summer 2021
+            | {% endif %}
+          li.menu__list__item
             | {% if page.name == 'spring_2021.md' %}
             a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/spring_2021') Spring 2021
             | {% else %}

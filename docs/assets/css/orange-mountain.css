@@ -2352,3 +2352,63 @@ section {
  min-height:200px;
  resize:none
 }
+
+/* Copied from extra.css for now since Github jekyll build doesn't seem to pick up the file contents? */
+.menu {
+    z-index: 1000;
+}
+
+/* The container - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+  
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+display: none;
+position: absolute;
+right: 0;
+background-color: blue;
+margin-top: 0;
+padding-top: 0;
+padding-inline: 10px;
+}
+
+@media only screen and (min-width: 769px) {
+.dropdown:hover .dropdown-content, .dropdown-content:hover {
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+justify-content: flex-end;
+}
+}
+
+.dropdown-content .menu__list__item {
+    margin-left: 0;
+    text-align: right;
+    padding-block: 3px;
+}
+
+@media only screen and (max-width: 768px) {
+    .dropdown-content {
+        display: block;
+        position: relative;
+        background-color: transparent;
+    }
+    .dropdown-content .menu__list__item {
+        text-align: left;
+        margin-left: 1em;
+    }
+}
+
+.menu__list__item__link:not(:last-child) {
+    margin-right: 10px;
+}
+
+.dropdown-content .menu__list__item__link {
+margin-bottom: 0;
+padding-bottom: 0;
+cursor: pointer;
+margin-right: 0px;
+}

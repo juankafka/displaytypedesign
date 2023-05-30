@@ -3,7 +3,7 @@
 1. Follow the instructions to [install Ruby and Jekyll](https://jekyllrb.com/docs/installation/).
 2. Run `bundle install` to install this repository's dependencies.
 3. Install [node](https://nodejs.org/en/).
-4. Run `npm install pug -g`.
+4. Install pug `npm install pug -g`.
 5. Install bliss: `npm install jekyll-bliss -g`
 
 (students: feel free to reach out if something doesn't work)

@@ -1,8 +1,8 @@
 doctype
 html
-    | {% include head %}
+    | {% include head.html %}
     body.ajax-loading
-      | {% include header %}
+      | {% include header.html %}
       .page
         .page__content
           section.intro
@@ -13,4 +13,4 @@ html
               p
               | {{ content | markdownify }}
           | {% assign projects = site.projects %}
-          | {% include project_grid %}
+          | {% include project_grid.html %}

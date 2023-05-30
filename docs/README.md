@@ -1,9 +1,10 @@
 # Quickstart
 
-1. Follow the instructions to [install Jekyll](https://jekyllrb.com/docs/installation/).
+1. Follow the instructions to [install Ruby and Jekyll](https://jekyllrb.com/docs/installation/).
 2. Run `bundle install` to install this repository's dependencies.
 3. Install [node](https://nodejs.org/en/).
-3. Run `npm install pug -g`.
+4. Run `npm install pug -g`.
+5. Install bliss: `npm install jekyll-bliss -g`
 
 (students: feel free to reach out if something doesn't work)
 
@@ -12,7 +13,7 @@
 After you have everything installed, in your terminal cd into the folder where the site is stored and run the following:
 
 ```
-bundle exec jekyll serve --baseurl ''
+bundle exec bliss serve
 ```
 
 This should give you the URL where the computer is running your site locally. View the site edits every time you refresh!
@@ -21,13 +22,17 @@ Note: For context, all the gallery pages are made via markdown files in the `_pr
 
 ## Pushing changes
 
-When you're done making changes, exit out of the active state in Terminal. Then (assuming your terminal is still pointing to the website directory), push the changes with this command:
+When you're done making changes, exit out of the active state in Terminal. Commit your changes to github and push them up:
 
 ```
-jekyll build -d docs
+git add -A
+git commit -m "made some updates"
+git push origin head
 ```
 
-# More Information 
+Github should automatically start to build and deploy your new changes.
+
+# More Information
 
 ## Directory Structure
 

@@ -4,7 +4,7 @@ title: A Class Exhibit
 permalink: /about
 ---
 <br><br><br>
-Over a period of ten weeks, a group of talented and highly motivated students from all over the world gathered in a virtual classroom to learn from one another and push their design skills further fueled by a shared passion for studying and making type.
+Over a period of ten weeks, a group of talented and highly motivated students from all over the world gathered in a virtual classroom to learn from one another and push their design skills further fueled by a shared passion for type.
 <br><br>
 ### What can display type teach us about the current moment? ###
 <br>

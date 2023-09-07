@@ -32,8 +32,6 @@ Always going back to hand-writing, some things just doesn't translate well techn
 <br><br>
 ![image9](/assets/img/Thavin_R/09.png)
 <br><br>
-![image10](/assets/img/Thavin_R/10.png)
-<br><br>
 
 ---
 ## Thavin R. ##

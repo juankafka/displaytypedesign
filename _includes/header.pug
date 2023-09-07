@@ -15,15 +15,17 @@ header.header
             a.menu__list__item__link(href='{{ site.baseurl }}/') Gallery
             | {% endif %}
           li.menu__list__item 
-            | {% if page.name == 'summer_2021.md' %}
-            a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/summer_2021') Summer 2021
+            | {% if page.name == 'spring_2023.md' %}
+            a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/spring_2023') Spring 2023
             | {% else %}
-            a.menu__list__item__link.class-link(href='{{ site.baseurl }}/summer_2021') Summer 2021
+            a.menu__list__item__link.class-link(href='{{ site.baseurl }}/spring_2023') Spring 2023
             | {% endif %}
           li.menu__list__item.dropdown
-            //- | {% if page.name == 'summer_2021.md' %}
-            //- .menu__list__item__link.cc-active.active-link Past Showcases - Summer 2021
-            | {% if page.name == 'spring_2021.md' %} 
+            //- | {% if page.name == 'spring_2023.md' %}
+            //- .menu__list__item__link.cc-active.active-link Past Showcases - Spring 2023
+            | {% if page.name == 'summer_2021.md' %} 
+            .menu__list__item__link.cc-active.active-link Past Showcases - Summer 2021
+            | {% elsif page.name == 'spring_2021.md' %} 
             .menu__list__item__link.cc-active.active-link Past Showcases - Spring 2021
             | {% elsif page.name == 'fall_2020.md' %} 
             .menu__list__item__link.cc-active.active-link Past Showcases - Fall 2020
@@ -34,17 +36,23 @@ header.header
             | {% endif %}
             ul.dropdown-content
               //- li.menu__list__item
-              //-   | {% if page.name == 'summer_2021.md' %}
-              //-   a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/summer_2021') Summer 2021
+              //-   | {% if page.name == 'spring_2023.md' %}
+              //-   a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/spring_2023') Spring 2023
               //-   | {% else %}
-              //-   a.menu__list__item__link.class-link(href='{{ site.baseurl }}/summer_2021') Summer 2021
+              //-   a.menu__list__item__link.class-link(href='{{ site.baseurl }}/spring_2023') Spring 2023
               //-   | {% endif %}
+              li.menu__list__item
+                | {% if page.name == 'summer_2021.md' %}
+                a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/summer_2021') Summer 2021
+                | {% else %}
+                a.menu__list__item__link.class-link(href='{{ site.baseurl }}/summer_2021') Summer 2021
+                | {% endif %}
               li.menu__list__item
                 | {% if page.name == 'spring_2021.md' %}
                 a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/spring_2021') Spring 2021
                 | {% else %}
                 a.menu__list__item__link.class-link(href='{{ site.baseurl }}/spring_2021') Spring 2021
-                | {% endif %}  
+                | {% endif %}
               li.menu__list__item
                 | {% if page.name == 'fall_2020.md' %}
                 a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/fall_2020') Fall 2020

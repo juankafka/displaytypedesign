@@ -58,7 +58,7 @@ When he’s not drawing letters, he’s probably making more coffee. You can fol
 
 
 ## Website Credits ##
-![image5](/assets/img/Space_Type/Logo_120.png)
+![image5](/assets/img/Space_Type/00.png) <!--- Logo --->
 <br>
 Huge thanks to Lynne Yun and Kevin Yeh of [Space Type Co.](https://spacetypeco.com/) for generously sharing the base code used to build this website. Check out their amazing work!
 <br><br>

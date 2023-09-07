@@ -6,7 +6,7 @@ class: spring_2023
 ---
 ###### Type Electives Display Type, Spring 2023 ######
 ---
-## Kuroobi ##
+## Black Beruto ##
 ### by Masahiro Naruse ###
 
 <br>
@@ -18,7 +18,7 @@ This typeface was made in a sense of not overly exotic, modern style font that r
 <br><br>
 ![image2](/assets/img/Masahiro_Naruse/02.png)
 <br>
-"Kuroobi" is a translation of black belt in Japanese, and is a certification for fighters in East Asian martial arts. The name represents its bold, punchy, yet flexible character.
+"Black Beruto" is a translation of black belt in Japanese, and is a certification for fighters in East Asian martial arts. The name represents its bold, punchy, yet flexible character.
 <br><br>
 ![image3](/assets/img/Masahiro_Naruse/03.png)
 <br>

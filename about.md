@@ -4,7 +4,7 @@ title: A Class Exhibit
 permalink: /about
 ---
 <br><br><br>
-Over a period of ten weeks, a group of talented and highly motivated students from all over the world gathered in a virtual classroom during a global pandemic and an ongoing fight for racial justice to study display type design.
+Over a period of ten weeks, a group of talented and highly motivated students from all over the world gathered in a virtual classroom to learn from one another and push their design skills further fueled by a shared passion for studying and making type.
 <br><br>
 ### What can display type teach us about the current moment? ###
 <br>
@@ -25,20 +25,23 @@ As the instructor of this class, I'm incredibly humbled and proud of the work yo
 I hope you enjoy this class exhibit and I encourage you to check out more of the students’ work, follow them on social media, and hire them for your next type-based project.
 <br><br><br><br>
 ### If you’re interested in learning type design ###
-I invite you to take my upcoming [Principles of Typeface Design: Display Type](http://coopertype.org/event/principles_of_typeface_design_display_type_spring2021) class through Type@Cooper.
+I invite you to check our our classes, workshop, and lectures at [Type Electives](https://www.typeelectives.com/).
 
-And if you want to continue learning, check out the [Type Crit Crew](https://medium.com/typecritcrew), an initiative that I started to help you get in touch with experienced type designers.
+
+And if you want to continue learning, check out the [Type Crit Crew](https://typecritcrew.com/), an initiative that I started to help you get in touch with experienced type designers.
 <br><br><br><br>
 ### About the Instructor ###
 Juan Villanueva is a typeface designer, letterer, and educator in New York City.
 <br><br>
-He grew up in Lima, Peru and Clifton, NJ. His heart is in both places and his work reflects both languages and cultures. Juan is a typeface designer at Monotype working on library designs including Helvetica Now and Walbaum as well as custom projects for global brands such as Google, Microsoft, Tencent, Entertainment One, and many others.
+He grew up in Lima, Peru and Clifton, New Jersey. His heart is in both places and his work reflects both languages and cultures. Juan is a Senior Type Designer at the [Monotype Studio](https://www.monotype.com/studio/juan-villanueva). He joined Monotype in 2016 where he contributes to library designs including Helvetica Now, Futura Now, and Walbaum and creates custom projects for global brands such as Google, Microsoft, Tencent, M&Ms, and Entertainment One.
 <br><br>
-He’s taught graphic design at the Cooper Union Summer Art Intensive Program and currently teaches typography at the City College of New York. He’s a member of AIGA NY, serves on the board of the Society of Scribes, and is the founder of Type Crit Crew, an initiative to make type design education more accessible and inclusive to students anywhere in the world.
+Juan is the co-founder of [Type Electives](https://www.typeelectives.com/) a new online school shaping the future of type by offering courses that go beyond traditional type design education. Previously, Juan was the lead instructor of [Type West Online](https://typewest.letterformarchive.org/2022/). He’s the founder of [Type Crit Crew](https://typecritcrew.com/), an initiative to make type design education more accessible and inclusive to students anywhere in the world. He previously taught at Type@Cooper, the City College of New York, and the Cooper Union Summer Art Intensive Program.
 <br><br>
-He holds a BFA in Graphic Design and Illustration & Animation from Montclair State University and graduated from the Type@Cooper Extended program. He is always taking workshops to improve his skills and most recently, he studied at the University of Reading’s Type Design Intensive focusing on non-Latin scripts and typography.
+Juan shares his story and research at design conferences around the world including the American Printing History Association, LADFEST, BICeBé, BIPOC Design History, Where Are The Black Designers?, TypeCon, How Design Live, Letrástica, and DiaTipo São Paulo. In 2021, he created [Typefaces as Cultural Objects](https://typelatam.com/), an archive that highlights typefaces made by Latin American designers that honor and preserve Latin American culture.
 <br><br>
-You can find his latest type & lettering experiments through the links and samples below.
+He holds a BFA in Graphic Design and Illustration & Animation from Montclair State University. He graduated from the Type@Cooper Extended program in typeface design and completed the Reading Type Design intensive program. He’s a member of AIGA NY and serves on the board of the Society of Scribes.
+<br><br>
+When he’s not drawing letters, he’s probably making more coffee. You can follow his lettering explorations on [Instagram](https://www.instagram.com/juan_kafka/) and the awesome work from his students here at [displaytypedesign.com](https://displaytypedesign.com/) and [typerevivals.com](https://typerevivals.com/) 🔥
 <br><br>
 ###### [Website](http://www.juankafka.com/), [Instagram](https://www.instagram.com/juan_kafka/), [Twitter](https://twitter.com/juan_kafka/), <a href = "mailto: jv.kafka@gmail.com">Email</a> ######
 <br><br><br><br>
@@ -50,6 +53,12 @@ You can find his latest type & lettering experiments through the links and sampl
 ![image4](/assets/img/Juan_Villanueva/04.gif) <!--- a-z --->
 <br><br><br>
 
+
 ---
 
-Huge thanks to Lynne Yun and Kevin Yeh of [Space Type Continuum](http://spacetypecontinuum.com/) for sharing the base code that I used to build this site. Check out their amazing work!
+
+## Website Credits ##
+![image1](/assets/img/Space_Type/Logo_120.png)
+<br>
+Huge thanks to Lynne Yun and Kevin Yeh of [Space Type Co.](https://spacetypeco.com/) for generously sharing the base code used to build this website. Check out their amazing work!
+<br><br>

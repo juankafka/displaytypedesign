@@ -27,12 +27,6 @@ I originally was solving for a completely different brief. At the beginning of c
 <br><br>
 ![image3](/assets/img/Grace_Han/06.png)
 <br><br>
-![image3](/assets/img/Grace_Han/07.png)
-<br><br>
-![image3](/assets/img/Grace_Han/08.png)
-<br><br>
-![image3](/assets/img/Grace_Han/09.png)
-<br><br>
 
 ---
 ## Grace Han ##

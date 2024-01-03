@@ -31,4 +31,4 @@ The way I came to my conclusion was by experimenting with a dual stroke construc
 ---
 ## Noah Lee ##
 Noah Lee is an Indigenous (Navajo) Graphic Designer furthering the visual language and theory of modern Northern Native American Design.
-###### [Website](https://www.sokehstudio.com/, [Instagram](https://www.instagram.com/sokehstudio) ######
+###### [Website](https://www.sokehstudio.com/), [Instagram](https://www.instagram.com/sokehstudio) ######

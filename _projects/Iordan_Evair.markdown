@@ -7,7 +7,7 @@ class: spring_2024
 ###### Type Electives Tipografías Display, Spring 2024 ######
 ---
 ## Boomb ##
-### by Iordan Evair ###
+### por Iordan Evair ###
 <br>
 Boomb es una fuente tipográfica display inspirada en la cultura hip hop latinoamericana cuya intención es reinterpretar la actitud y elementos característicos del graffiti tag; tal como el eje de inclinación, velocidad del trazo, condensación y construcción de los caracteres. Sus rasgos la hacen una fuente ideal para titulares con voz audaz.
 <br><br>

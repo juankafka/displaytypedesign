@@ -7,7 +7,7 @@ class: spring_2024
 ###### Type Electives Tipografías Display, Spring 2024 ######
 ---
 ## Malinche ##
-### by Frinee Miryanm ###
+### por Frinee Miryanm ###
 <br>
 Malinche es una fuente que busca evocar "lo mexicano" (mexicáyotl). Inspirada en el arte prehispánico Mexica, no pretende ser un "rescate purista" del pasado, sino una visión al futuro que pueda usarse para darle una voz fuerte a la cultura mexicana.
 <br><br>
@@ -33,4 +33,4 @@ El proceso fue un poco difícil ya que se trató de descolonizar las ideas previ
 ## Frinee Miryanm ##
 Diseñadora tapatía multidisciplinaria. Me centro en el desarrollo de branding y sistemas de comunicación.
 <br>
-###### [Website](https://www.behance.net/frineemx), [Instagram](https://www.instagram.com/iordan.evair) ######
+###### [Website](https://www.behance.net/frineemx), [Instagram](https://www.instagram.com/frinee.mx/) ######

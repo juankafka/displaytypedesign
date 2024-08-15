@@ -7,7 +7,7 @@ class: spring_2024
 ###### Type Electives Tipografías Display, Spring 2024 ######
 ---
 ## Mallett ##
-### by Marcela Hernandez ###
+### por Marcela Hernandez ###
 <br>
 Mallett está inspirada en el género Western de ciencia ficción de la película Volver al futuro III. Es una tipografía de contraste invertido que evoca a la aventura. Los elementos que la conforman aportan diversión y movimiento para diferenciar lo que tradicionalmente representaría a un Western.
 <br><br>

@@ -7,7 +7,7 @@ class: spring_2024
 ###### Type Electives Tipografías Display, Spring 2024 ######
 ---
 ## Ameghino ##
-### by Ana Laura Horst ###
+### por Ana Laura Horst ###
 <br>
 Ameghino nace desde las referencias en etiquetas & escritos encontrados en distintos Museos de Ciencias Naturales de Buenos Aires. Además de estar presente la influencia de su caligrafía, esta tipografía busca homenajear y visibilizar los invaluables aportes que hizo Florentino Ameghino, naturalista y paleontólogo argentino, a la ciencia nacional e internacional
 <br><br>

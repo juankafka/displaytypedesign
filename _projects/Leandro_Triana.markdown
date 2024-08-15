@@ -7,7 +7,7 @@ class: spring_2024
 ###### Type Electives Tipografías Display, Spring 2024 ######
 ---
 ## Cadillal ##
-### by Leandro Triana ###
+### por Leandro Triana ###
 <br>
 Cadillal se proyecta como una tipografía display slab serif, que tiene como punto de partida los carteles callejeros de eventos musicales, conciertos, teatro y publicidad que se instalaban en las paredes del barrio Cadillal de la ciudad de Popayán (Colombia), en estas letras se observó parámetros como contraste, altura de X, el desgaste del proceso de impresión.
 

@@ -7,7 +7,7 @@ class: spring_2024
 ###### Type Electives Tipografías Display, Spring 2024 ######
 ---
 ## Haisley ##
-### by Lesley Haislett ###
+### por Lesley Haislett ###
 <br>
 "Haisley" es una tipografía display inspirada en los poster, covers de musica, editoriales etc, pensada para su uso en caja alta, dandole protagonismo y más impacto a las cosas, haciéndola ver minimalista pero al mismo tiempo elegante y con carácter,  las formas de las letras y las terminaciones de estas la hacen ver fuerte y atrevida, pero al mismo tiempo muy amigable y divertida. El tipo de letra es grueso y todavía se sigue trabajando, se planea que sea una familia con pesos y tener una variación experimental en los trazos, su uso será únicamente para titulares y textos grandes, no para versión texto.
 <br><br>

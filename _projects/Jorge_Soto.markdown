@@ -7,7 +7,7 @@ class: spring_2024
 ###### Type Electives Tipografías Display, Spring 2024 ######
 ---
 ## Gotch ##
-### by Jorge Soto ###
+### por Jorge Soto ###
 <br>
 Gotch es una tipografía que pretende convertirse en un tipo de madera para utilizarse en impresión tipográfica. Itálica y display, se inspira en la caligrafía gótica de Rudolf Koch, con acentos gráficos que aluden al tallado en madera.
 <br><br>

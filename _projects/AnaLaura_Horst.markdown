@@ -9,11 +9,11 @@ class: spring_2024
 ## Ameghino ##
 ### by Ana Laura Horst ###
 <br>
-Ameghino es una tipografía script que nace de referencias de etiquetas & escritos encontrados en distintos Museos de Ciencias Naturales de la ciudad de Buenos Aires. Además de estar presente la influencia de su caligrafía, busca homenajear y visibilizar los aportes que hizo Florentino Ameghino, naturalista y paleontólogo argentino, a la ciencia internacional.
+Ameghino nace desde las referencias en etiquetas & escritos encontrados en distintos Museos de Ciencias Naturales de Buenos Aires. Además de estar presente la influencia de su caligrafía, esta tipografía busca homenajear y visibilizar los invaluables aportes que hizo Florentino Ameghino, naturalista y paleontólogo argentino, a la ciencia nacional e internacional
 <br><br>
 ![image1](/assets/img/AnaLaura_Horst/01.png)
 <br>
-Más allá de que el diseño final sea en soporte digital o analógico, Ameghino fue pensada para usarse, en principio, en diseños dentro la esfera científica, como pueden ser las publicaciones de divulgación. Busca expandirse a otros universos, como el musical o el cinematográfico.
+Más allá de que se utilice en un soporte digital o analógico, Ameghino fue pensada para la esfera científica, como puede ser el diseño de libros y publicaciones de divulgación. También busca expandirse a otros universos, como el musical y el cinematográfico.
 <br><br>
 
 ![image2](/assets/img/AnaLaura_Horst/02.png)
@@ -27,6 +27,6 @@ Más allá de que el diseño final sea en soporte digital o analógico, Ameghino
 
 ---
 ## Ana Laura Horst ##
-Ana Laura Horst es una Diseñadora Gráfica nacida en Buenos Aires, Argentina. Graduada de la Facultad de Arquitectura, Diseño y Urbanismo (FADU, UBA), dá clases en la materia Tipografía 1 de la misma institución y trabaja en The Walt Disney Company.
+Diseñadora Gráfica nacida en Buenos Aires, Argentina. Trabaja en The Walt Disney Company, y esta graduada de la Facultad de Arquitectura, Diseño y Urbanismo (FADU, UBA), donde da clases en las materias Tipografía 1 y Diseño Editorial, ambas de la misma institución.
 <br>
 ###### [Website](https://www.behance.net/analaurahorst), [Instagram](https://www.instagram.com/analaurahorst) ######

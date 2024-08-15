@@ -9,7 +9,7 @@ class: spring_2024
 ## Funky Waka ##
 ### by David Udoh ###
 <br>
-Funky Waka is a 'funky', stylized serif typeface, inspired by the hand-painted transit and signage designs found in Lagos and Mombasa. The font captures the essence of the local visual culture, infusing elements of spontaneity and dynamic letterforms into its design. The term "Waka" in the name originates from the Nigerian pidgin word for "Walk. I thought it was a cool idea to include "waka" in the font's name because the design references are largely from photos I took while walking through the streets of Lagos and Mombasa.
+Funky Waka is a 'funky', stylized serif typeface, inspired by the hand-painted transit and signage designs found in Lagos and Mombasa. The font captures the essence of the local visual culture, infusing elements of spontaneity and dynamic letterforms into its design. The term "Waka" in the name originates from the Nigerian pidgin word for "Walk." I thought it was a cool idea to include "waka" in the font's name because the design references are largely from photos I took while walking through the streets of Lagos and Mombasa.
 
 The typeface is still work in progress and is planned to support SSA languages and a stretch goal of varied weights.
 <br><br>

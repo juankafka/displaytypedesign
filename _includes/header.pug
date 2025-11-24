@@ -15,15 +15,19 @@ header.header
             a.menu__list__item__link(href='{{ site.baseurl }}/') Gallery
             | {% endif %}
           li.menu__list__item 
-            | {% if page.name == 'spring_2024.md' %}
-            a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/spring_2024') Spring 2024
+            | {% if page.name == 'spring_2025.md' %}
+            a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/spring_2025') Spring 2025
             | {% else %}
-            a.menu__list__item__link.class-link(href='{{ site.baseurl }}/spring_2024') Spring 2024
+            a.menu__list__item__link.class-link(href='{{ site.baseurl }}/spring_2025') Spring 2025
             | {% endif %}
           li.menu__list__item.dropdown
             //- | {% if page.name == 'spring_2023.md' %}
             //- .menu__list__item__link.cc-active.active-link Past Showcases - Spring 2023
-            | {% if page.name == 'fall_2023.md' %} 
+            | {% if page.name == 'fall_2024.md' %} 
+            .menu__list__item__link.cc-active.active-link Past Showcases - Fall 2024
+            | {% elsif page.name == 'spring_2024.md' %} 
+            .menu__list__item__link.cc-active.active-link Past Showcases - Spring 2024
+            | {% elsif page.name == 'fall_2023.md' %} 
             .menu__list__item__link.cc-active.active-link Past Showcases - Fall 2023
             | {% elsif page.name == 'spring_2023.md' %} 
             .menu__list__item__link.cc-active.active-link Past Showcases - Spring 2023
@@ -45,6 +49,18 @@ header.header
               //-   | {% else %}
               //-   a.menu__list__item__link.class-link(href='{{ site.baseurl }}/spring_2023') Spring 2023
               //-   | {% endif %}
+              li.menu__list__item
+                | {% if page.name == 'fall_2024.md' %}
+                a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/fall_2024') Fall 2024
+                | {% else %}
+                a.menu__list__item__link.class-link(href='{{ site.baseurl }}/fall_2024') Fall 2024
+                | {% endif %}
+              li.menu__list__item
+                | {% if page.name == 'spring_2024.md' %}
+                a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/spring_2024') Spring 2024
+                | {% else %}
+                a.menu__list__item__link.class-link(href='{{ site.baseurl }}/spring_2024') Spring 2024
+                | {% endif %}
               li.menu__list__item
                 | {% if page.name == 'fall_2023.md' %}
                 a.menu__list__item__link.cc-active.active-link(href='{{ site.baseurl }}/fall_2023') Fall 2023

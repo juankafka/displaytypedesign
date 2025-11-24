@@ -10,9 +10,11 @@ class: spring_2024
 ### por Iordan Evair ###
 <br>
 Boomb es una fuente tipográfica display inspirada en la cultura hip hop latinoamericana cuya intención es reinterpretar la actitud y elementos característicos del graffiti tag; tal como el eje de inclinación, velocidad del trazo, condensación y construcción de los caracteres. Sus rasgos la hacen una fuente ideal para titulares con voz audaz.
+
 <br><br>
 ![image1](/assets/img/Iordan_Evair/01.png)
 <br>
+
 Mi proceso comenzó con la exploración de bocetos de diferentes tipos de contraste, inicialmente con herramientas caligráficas y posteriormente con el refinamiento a lápiz. A la par de ello, me cuestionaba cuáles eran aquellos elementos presentes en la escritura callejera que pudieran dar origen a la identidad que el proyecto necesitaba. En graffiti, irónicamente no hay nada escrito, por ello, uno de los mayores retos fue definir una estructura para los glifos que incorporara esta esencia sin llegar a ser un "rescate" de algo visto en las calles anteriormente. La observación de diferentes modelos de escritura urbana dieron pie a la toma de decisiones, además, la experimentación con el dibujo y la escritura manual han sido fundamentales en el transcurso de este proyecto.
 <br><br>
 

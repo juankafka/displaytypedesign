@@ -10,7 +10,7 @@ class: fall_2025
 ### by Yingxin Li ###
 
 <br>
-Tomiris Serifs is a modern typeface that integrates traditional Kazakh motifs (oyu) into its decorative flourishes. It serves as a cultural ambassador, blending geometric elegance with functional design for a global audience.
+Tomiris Serif is a modern typeface that integrates traditional Kazakh motifs (oyu) into its decorative flourishes. It serves as a cultural ambassador, blending geometric elegance with functional design for a global audience.
 
 <br><br>
 ![image1](/assets/img/Yingxin_Li/01.png)
